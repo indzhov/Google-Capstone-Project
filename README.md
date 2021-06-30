@@ -25,6 +25,11 @@ global smart device market.Urška Sršen,co-founder and Chief Creative Officer o
 - Spring : This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. The Spring bottle connects to the Bella beat app to track your hydration levels.
 
 # Content : 
-- ASK - 
+- ASK 
+- PREPARE
+- PROCESS
+- ANALYZE
+- SHARE
+- ACT
 # Sources : 
 - FitBit Fitness Tracker Data - https://www.kaggle.com/arashnic/fitbit
