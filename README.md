@@ -37,6 +37,17 @@ global smart device market.Urška Sršen,co-founder and Chief Creative Officer o
 You also can play interactively with it [here](https://prod-uk-a.online.tableau.com/t/practice12345/views/dashboard/Dashboard1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link) or load it from the workbook in the repository .
 
 # Suggestion to the business :
+1. Calories : 
+- The people who are walking most and record the longest distance are not the ones that burn most calories.
+- The people that burn most calories are the ones that are doing extremely intensive exercise.
+
+Outcome : We could focus on the active, intensive exercising and even promote it. 
+The graph could be found in the image “corr.png”
+
+2.Only 1/3 of the days the users are reaching the minimum steps, which the doctors are advising for normal way of life and good health condition. 
+! This could be used in a commercial, where the data shows that more than half of the people are inactive. Also, it is good to be noted that this conclusion is drawn from people that already have taken the first step in their healthy life (buying a tracking gadget). This means that the real proportion of people, who not only do not look after their health, but also do not monitor their steps is significantly bigger. !
+
+3. The Fit Bit Tracker have flawns - They record around 4/5 beats per minute, which is not logical nor normal. The only logical explanation is that we already have a flawn in the FitBit trackers. They do not record accurate the heart beating of a person. This is something that we can use. First of all to be sure that a correct monitoring is present in our devices. Second of all to show off a new functionality that seems not present in our exisiting competitors. 
 
 # Sources : 
 - FitBit Fitness Tracker Data - https://www.kaggle.com/arashnic/fitbit
