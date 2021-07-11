@@ -8,10 +8,10 @@ Those who earn the Google Data Analytics Professional Certificatehave completed 
 - Foundations: Data, Data,Everywhere
 - Ask Questions to Make Data-Driven Decisions
 - Prepare Data for Exploration
-- Process Data from Dirty toClean
+- Process Data from Dirty to Clean
 - Analyze Data to Answer Questions
-- Share Data Through the Artof Visualization
-- Data Analysis with RProgramming
+- Share Data Through the Art of Visualization
+- Data Analysis with R Programming
 - Google Data Analytics Capstone: Complete a CaseStudy
 
 # Scenario for the Capstone Project
@@ -31,5 +31,11 @@ global smart device market.Urška Sršen,co-founder and Chief Creative Officer o
 - ANALYZE
 - SHARE
 - ACT
+
+# Final Dashboard : 
+![dashboard: ](img/Dashboard.png)
+
+# Suggestion to the business :
+
 # Sources : 
 - FitBit Fitness Tracker Data - https://www.kaggle.com/arashnic/fitbit
