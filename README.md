@@ -34,6 +34,7 @@ global smart device market.Urška Sršen,co-founder and Chief Creative Officer o
 
 # Final Dashboard : 
 ![dashboard: ](img/Dashboard.png)
+You also can play interactively with it [here](https://prod-uk-a.online.tableau.com/t/practice12345/views/dashboard/Dashboard1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
 # Suggestion to the business :
 
